@@ -1,0 +1,21 @@
+
+
+		On running script logistic_regression (  logistic_regression.m file) Below Ouput Can be expected
+=======================================================================================
+
+Accuracy using Gradient Descent = 48.000000
+ Iterations taken :1000
+
+Accuracy using Newton Raphson = 54.000000
+ Iterations taken :6
+
+Feature_Added_Matrix_Accuracy 56.000000
+
+EFFECT--OF--LAMBDA--CHANGE--TO--OUTPUT--ACCURACY
+Feature_Added_Matrix_Accuracy = 53.000000 for lambda = 5
+Feature_Added_Matrix_Accuracy = 56.000000 for lambda = 10
+Feature_Added_Matrix_Accuracy = 57.000000 for lambda = 15
+Feature_Added_Matrix_Accuracy = 58.000000 for lambda = 20
+Feature_Added_Matrix_Accuracy = 58.000000 for lambda = 25
+
+========================================================================================
